@@ -103,7 +103,7 @@ class TodoModel {
 const dbConnection = mysql.createConnection({
     host     : 'localhost',
     user     : 'root',
-    password : 'jhunu123',
+    password : 'XXXXXX',
     database : 'todo_app'
 });
 
